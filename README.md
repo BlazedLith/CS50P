@@ -17,3 +17,5 @@ This repository includes my work for [CS50’s Introduction to Programming with 
 These solutions are my own and shared for learning reference only. Please respect CS50's [academic honesty policy](https://cs50.harvard.edu/python/honesty/).
 
 ---
+
+**Repo by Wasiq Amir**
