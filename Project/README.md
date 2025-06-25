@@ -89,5 +89,3 @@ pytest
 ## Author
 
 - **Name:** Wasiq Amir
-- **GitHub Username:** BlazedLith
-- **City & Country:** Layyah, Pakistan
